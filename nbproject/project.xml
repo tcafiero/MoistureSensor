@@ -1,16 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://www.netbeans.org/ns/project/1">
-  <type>com.microchip.mplab.nbide.embedded.makeproject</type>
-  <configuration>
-    <data xmlns="http://www.netbeans.org/ns/make-project/1">
-      <name>MoistureSensor</name>
-      <creation-uuid>be04ccf1-509e-47a7-9836-f09cd78aa91f</creation-uuid>
-      <make-project-type>0</make-project-type>
-      <c-extensions>c</c-extensions>
-      <cpp-extensions />
-      <header-extensions>h</header-extensions>
-      <asminc-extensions />
-      <sourceEncoding>ISO-8859-1</sourceEncoding>
-      <make-dep-projects />
-    </data>
-  </configuration>
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>MoistureSensor</name>
+            <creation-uuid>be04ccf1-509e-47a7-9836-f09cd78aa91f</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+        </data>
+    </configuration>
 </project>
